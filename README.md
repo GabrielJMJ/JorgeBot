@@ -46,8 +46,8 @@ First, you have to install NodeJS here: http://nodejs.org.
 }
 ```
 ### Executing
-Download the ZIP file: https://github.com/GabrielJMJ/JorgeBot/archive/master.zip
-Or clone: ```$ git clone https://github.com/GabrielJMJ/JorgeBot```.
+Download the ZIP file: https://github.com/GabrielJMJ/MenesBot/archive/master.zip
+Or clone: ```$ git clone https://github.com/GabrielJMJ/MenesBot```.
 Go to the path that you extrated files in cmd and execute that command and run the bot. Futurely this will have an executable.
 ```cmd
 $ npm install
