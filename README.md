@@ -1,4 +1,4 @@
-JorgeBot
+MenesBot
 ========
 Twitch bot for your chat. <br>
 **Status:** ```In-development```
