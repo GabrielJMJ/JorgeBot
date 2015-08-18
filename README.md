@@ -50,6 +50,7 @@ Create a file called ```configurations.json``` in the path of the bot files.
         "last_to_time_in_seconds": 600
     }
 }
+```
 
 ### Executing
 Go to the path that you extrated files in cmd and execute that command and run the bot. Futurely this will have an executable.
