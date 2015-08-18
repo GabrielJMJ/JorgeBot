@@ -5,7 +5,14 @@ Twitch bot for your chat. <br>
 
 ## Usage
 First, you have to install NodeJS here: http://nodejs.org.
+
+```
+### Installing
+Download the ZIP file: https://github.com/GabrielJMJ/MenesBot/archive/master.zip
+Or clone: ```$ git clone https://github.com/GabrielJMJ/MenesBot```.
+
 ### Configuration
+Create a file called ```configurations.json``` in the path of the bot files.
 * ```YOUR_CHANNEL``` is the channel where the bot will be activated.
 * ```BOT_USER``` is the Twitch username of the bot.
 * Go to http://twitchapps.com/tmi logged on Twitch with your bot account and generate a password. Copy ```oauth:...``` and replace ```OAUTH_PASS``` by that.
@@ -44,10 +51,8 @@ First, you have to install NodeJS here: http://nodejs.org.
         "last_to_time_in_seconds": 600
     }
 }
-```
+
 ### Executing
-Download the ZIP file: https://github.com/GabrielJMJ/MenesBot/archive/master.zip
-Or clone: ```$ git clone https://github.com/GabrielJMJ/MenesBot```.
 Go to the path that you extrated files in cmd and execute that command and run the bot. Futurely this will have an executable.
 ```cmd
 $ npm install
