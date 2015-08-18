@@ -6,7 +6,6 @@ Twitch bot for your chat. <br>
 ## Usage
 First, you have to install NodeJS here: http://nodejs.org.
 
-```
 ### Installing
 Download the ZIP file: https://github.com/GabrielJMJ/MenesBot/archive/master.zip
 Or clone: ```$ git clone https://github.com/GabrielJMJ/MenesBot```.
